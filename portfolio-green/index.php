@@ -15,11 +15,11 @@
         <header>
             <nav>
                 <ul>
-                    <li><a href="index.html"><img src="img/home.png" alt="Home">Home</a></li>
+                    <li><a href="index.php"><img src="img/home.png" alt="Home">Home</a></li>
                 </ul>
                 <ul>
-                    <li><a href="index.html#about"><img src="img/gear.png" alt="About">About</a></li>
-                    <li><a href="index.html#projects"><img src="img/presentation.png" alt="Projects">Projects</a></li>
+                    <li><a href="index.php#about"><img src="img/gear.png" alt="About">About</a></li>
+                    <li><a href="index.php#projects"><img src="img/presentation.png" alt="Projects">Projects</a></li>
                 </ul>
             </nav>
     
